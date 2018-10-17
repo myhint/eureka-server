@@ -5,8 +5,8 @@
  * provider-client `服务提供方`
  * consumer-client `服务消费方`
  
-#### 2.Eureka与Dubbo有何区别？
- * Eureka 调用服务是通过Rest Api
+#### 2.Spring Cloud与Dubbo有何区别？
+ * Spring Cloud 调用服务是通过Rest Api
  * Dubbo 调用服务是RPC远程调用的方式
  
 #### 3.Eureka常规配置项

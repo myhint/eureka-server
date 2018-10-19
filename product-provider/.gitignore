@@ -17,6 +17,7 @@
 *.iml
 *.ipr
 /out/
+.idea/workspace.xml
 
 ### NetBeans ###
 /nbproject/private/

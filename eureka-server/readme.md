@@ -2,6 +2,10 @@
 
 #### 1.总共分为3个Module:
  * eureka-server `注册中心`
+ ```
+ eureka-server 服务启动后，在浏览器地址栏访问 http://localhost:8761/ 即可进入Eureka监控管理后台
+ 
+ ```
  * provider-client `服务提供方`
  * consumer-client `服务消费方`
  
